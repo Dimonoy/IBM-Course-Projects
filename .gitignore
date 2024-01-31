@@ -1,2 +1,9 @@
+# Notebook checkpoints
 .ipynb_checkpoints/
+
+# Python cached exectuions
 .pycache/
+
+# Data files
+*.csv
+*.xmlx
