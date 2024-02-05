@@ -8,3 +8,6 @@
 *.csv
 *.xmlx
 *.db
+
+# Slide images (already in presentation)
+Slide*.png
